@@ -6,7 +6,7 @@
 href="https://www.facebook.com/Luan.LCDS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Luan.LCDS" height="30" width="40" 
 href="https://open.spotify.com/user/lcarlos-99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Luan.LCDS" height="30" width="40" /></a>
  
-<h2 align="center"><b>Oi, eu sou o Luan!🐈‍⬛ </b></p></h2>
+<h2 align="center"><b>Oi, eu sou o Luan!🐈‍⬛ </b></h2></p>
 <pre><code>Estudante de Ciência da Computação pela UNICID - Universidade Cidade de São Paulo. 
 Apaixonado por TI desde que comecei a me conhecer profissionalmente, mas desde criança sempre 
 tive uma afinidade com a tecnologia. Atualmente tenho me dedicado a me especializar na area. </code></pre>
