@@ -47,7 +47,8 @@ Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, alm
 Estou cursando Ciência da Computação e um curso de Java WEB. 💻
  
 <h3 align="center"> Meus dados no Github</h3>
- 
+
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanCS1&show_icons=true&count_private=true&theme=radical)
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCS1&show_icons=true&count_private=true&theme=radical)
 ![Snake animation](https://github.com/LuanCS1/LuanCS1/blob/output/github-contribution-grid-snake.svg)
+
