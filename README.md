@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-BR" data-color-mode="auto" data-light-theme="dark" data-dark-theme="dark_high_contrast"><head>
 <meta name="viewport" content="width=device-width">
-<p> <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="500" height="500">
-
+<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" width="500" height="500">
+<p  align="right"
 <a href="https://linkedin.com/in/luancarlosds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luancarlosds" height="30" width="40" align="right"
 href="https://www.facebook.com/Luan.LCDS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Luan.LCDS" height="30" width="40" align="right"
 href="https://open.spotify.com/user/lcarlos-99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Luan.LCDS" height="30" width="40" align="right" /></a>
