@@ -26,7 +26,7 @@ a tecnologia. Atualmente tenho me dedicado a me especializar na area. </code></p
 
 </p>
  <h4 align="left">Ferramentas:</h4>
- <p align="left"> <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" alt="bash" width="40" height="40"/> </a>
+ <p align="left"> <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png" alt="zabbix" width="40" height="40"/> </a>
  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a> 
