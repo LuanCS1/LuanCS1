@@ -2,12 +2,11 @@
 <html lang="pt-BR" data-color-mode="auto" data-light-theme="dark" data-dark-theme="dark_high_contrast"><head>
 <meta name="viewport" content="width=device-width">
 <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
- <p align="right">
-<a href="https://linkedin.com/in/luancarlosds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luancarlosds" height="30" width="40" 
+ <p align="right"> <a href="https://linkedin.com/in/luancarlosds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luancarlosds" height="30" width="40" 
 href="https://www.facebook.com/Luan.LCDS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Luan.LCDS" height="30" width="40" 
 href="https://open.spotify.com/user/lcarlos-99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Luan.LCDS" height="30" width="40" /></a>
- </p>
-<h2><p align="center"><b>Oi, eu sou o Luan!🐈‍⬛ </b></p></h2>
+ 
+<h2 align="center"><b>Oi, eu sou o Luan!🐈‍⬛ </b></p></h2>
 <pre><code>Estudante de Ciência da Computação pela UNICID - Universidade Cidade de São Paulo. 
 Apaixonado por TI desde que comecei a me conhecer profissionalmente, mas desde criança sempre 
 tive uma afinidade com a tecnologia. Atualmente tenho me dedicado a me especializar na area. </code></pre>
