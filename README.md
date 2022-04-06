@@ -10,7 +10,7 @@ href="https://open.spotify.com/user/lcarlos-99" target="blank"><img align="cente
 <pre><code>Estudante de Ciência da Computação pela UNICID - Universidade Cidade de São Paulo. 
 Apaixonado por TI desde que comecei a me conhecer profissionalmente, mas desde criança sempre tive uma afinidade com 
 a tecnologia. Atualmente tenho me dedicado a me especializar na area. </code></pre>
-
+##
 <h3 align="center">Tecnologias que estudo e tenho afinidade 🖥️</h3> 
 <h4 align="left">Linguagens:</h4>
 <p align="left"> 
