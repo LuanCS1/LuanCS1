@@ -11,8 +11,8 @@
 <pre><code>Estudante de Ciência da Computação pela UNICID - Universidade Cidade de São Paulo. 
 Apaixonado por TI desde que comecei a me conhecer profissionalmente, mas desde criança sempre tive uma afinidade com 
 a tecnologia. Atualmente tenho me dedicado a me especializar na area. </code></pre><br>
-
-<h3 align="center">Tecnologias que estudo e tenho afinidade 🖥️</h3> <hr>
+<hr>
+<h3 align="center">Tecnologias que estudo e tenho afinidade 🖥️</h3> 
 <h4 align="left">Linguagens:  </h4>
 <div align="left">  
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
@@ -37,8 +37,8 @@ a tecnologia. Atualmente tenho me dedicado a me especializar na area. </code></p
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="reactnative" width="40" height="40"/> 
      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="visualstudio" width="40" height="40"/> </a>
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="filezilla" width="40" height="40"/> </a>
- </div> <br>
- <h3 align="center">Algumas curiosidades sobre mim 👨🏻‍💻</h3>  <hr>
+ </div> <hr> 
+ <h3 align="center">Algumas curiosidades sobre mim 👨🏻‍💻</h3>  
 Eu tenho bastante afinidade com engenharia eletrica pois constatemente auxiliava o meu irmão com as suas atividades.. 🔗
 
 Estou participando de um projeto web em Java, porém é um caminho longo. 🔗
@@ -46,8 +46,8 @@ Estou participando de um projeto web em Java, porém é um caminho longo. 🔗
 Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo me aperfeiçoar para conquistar grandes coisas e conhecer novas culturas, pessoas e ter novas experiências.
 
 Estou cursando Ciência da Computação e um curso de Java WEB. 💻
- 
-<h3 align="center"> Meus dados no Github</h3> <hr>
+<hr> 
+<h3 align="center"> Meus dados no Github</h3> 
 
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanCS1&show_icons=true&count_private=true&theme=radical)
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCS1&show_icons=true&count_private=true&theme=radical&width=40&height=40)
