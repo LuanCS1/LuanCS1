@@ -4,7 +4,8 @@
 <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
  <p align="right"> <a href="https://linkedin.com/in/luancarlosds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luancarlosds" height="30" width="40" 
 href="https://www.facebook.com/Luan.LCDS" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" alt="Luan.LCDS" height="40" width="40" 
-href="https://open.spotify.com/user/lcarlos-99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="lcarlos-99" height="40" width="40" /></a>
+href="https://open.spotify.com/user/lcarlos-99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="lcarlos-99" height="40" width="40"
+href="https://linktr.ee/luancs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/LuanCS1/ProcessamentoDImagens/main/icons8-linktree.svg" alt="luancs1" height="40" width="40" /></a>
  
 <h2 align="center"><b>Oi, eu sou o Luan!🐈‍⬛ </b></h2></p> 
 <pre><code>Estudante de Ciência da Computação pela UNICID - Universidade Cidade de São Paulo. 
