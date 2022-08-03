@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html  <p align="right"> <a href="https://linkedin.com/in/luancarlosds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luancarlosds" height="30" width="40" </a>
+<html lang="pt-BR" data-color-mode="auto" data-light-theme="dark" data-dark-theme="dark_high_contrast"><head>
+<meta name="viewport" content="width=device-width"> <p align="right"> <a href="https://linkedin.com/in/luancarlosds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luancarlosds" height="30" width="40" </a>
 <a href="https://www.facebook.com/Luan.LCDS" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" alt="Luan.LCDS" height="40" width="40"  </a>
 <a href="https://open.spotify.com/user/lcarlos-99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="lcarlos-99" height="40" width="40"</a>
 <a href="https://linktr.ee/luancs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/LuanCS1/ProcessamentoDImagens/main/icons8-linktree.svg" alt="luancs1" height="40" width="40" /></a>
