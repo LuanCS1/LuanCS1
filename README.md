@@ -37,6 +37,8 @@ a tecnologia. Atualmente tenho me dedicado a me especializar na area. </code></p
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="filezilla" width="40" height="40"/> </a>
  </div> <hr> 
  <h3 align="center">Algumas curiosidades sobre mim 👨🏻‍💻</h3>  <hr>
+Tenho grande experiencia com monitoria utilizando as plataformas do Zabbix, Grafana, e usando os dados do mesmo para dar resultado aos objetivos. 🔗 
+  
 Eu tenho bastante afinidade com engenharia eletrica pois constatemente auxiliava o meu irmão com as suas atividades.. 🔗
 
 Estou participando de um projeto web em Java, porém é um caminho longo. 🔗
