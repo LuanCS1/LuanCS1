@@ -41,11 +41,11 @@ Tenho grande experiencia com monitoria utilizando as plataformas do Zabbix, Graf
   
 Eu tenho bastante afinidade com engenharia eletrica pois constatemente auxiliava o meu irmão com as suas atividades.. 🔗
 
-Estou participando de um projeto web em Java, porém é um caminho longo. 🔗
+Estou participando de um projeto web em Java, utilizando o springboot para acelerar 🔗
 
 Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo me aperfeiçoar para conquistar grandes coisas e conhecer novas culturas, pessoas e ter novas experiências.
 
-Estou cursando Ciência da Computação e um curso de Java WEB. 💻
+Estou cursando Ciência da Computação, e faço alguns cursos a parte, JAVA, Python, Ciencia de dados, Automatização de processos. 💻
 <hr> 
 <h3 align="center"> Meus dados no Github</h3> <hr>
 
